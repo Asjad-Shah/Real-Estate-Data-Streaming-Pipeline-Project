@@ -80,7 +80,7 @@ This project is licensed under the MIT License.
 
 MIT License
 
-Copyright (c) Usman Mahmood <usmanmehmood770@gmail.com>
+Copyright (c) Asjad Shah <asjadshah60@gmail.com>
 [MIT.LICENSE.txt](https://github.com/user-attachments/files/17152511/MIT.LICENSE.txt) MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
