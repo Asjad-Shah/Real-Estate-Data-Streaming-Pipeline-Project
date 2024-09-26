@@ -57,6 +57,17 @@ This project demonstrates an end-to-end **Real Estate Data Streaming & Analytics
 - **Power BI**: For data visualization.
 - **Python 3.x**: To run the data extraction and processing scripts.
 
+## Code Snippets/Screenshots
+
+![WhatsApp Image 2024-09-26 at 09 42 01_58d68567](https://github.com/user-attachments/assets/b085a0e4-3dd5-4e10-aa17-3dc57b3495fe)
+![WhatsApp Image 2024-09-26 at 09 42 01_db9ff10c](https://github.com/user-attachments/assets/e664cbf6-494f-4281-b9d1-1c3fa7a41bc7)
+![WhatsApp Image 2024-09-26 at 09 42 02_7ca1b439](https://github.com/user-attachments/assets/ab268e6c-f7e4-422a-9089-cfdf1cee8a91)
+![WhatsApp Image 2024-09-26 at 09 42 01_036e7838](https://github.com/user-attachments/assets/dbeccaaa-eb0c-4aac-a7cc-3df24e8e5f44)
+![WhatsApp Image 2024-09-26 at 09 42 03_8cf961ce](https://github.com/user-attachments/assets/f1da6354-7cfe-4cdd-bc6e-2b32b67d8f8d)
+![WhatsApp Image 2024-09-26 at 09 42 01_908c3865](https://github.com/user-attachments/assets/450bcc1b-a32e-489b-a3b4-5b9e240a5db4)
+
+
+
 ## Visualizations
 
 Here’s an example of the **Power BI** dashboard visualizing key metrics from the real estate data:
@@ -80,8 +91,9 @@ This project is licensed under the MIT License.
 
 MIT License
 
-Copyright (c) Asjad Shah <asjadshah60@gmail.com>
-[MIT.LICENSE.txt](https://github.com/user-attachments/files/17152511/MIT.LICENSE.txt) MIT License
+Copyright (c) Asjad Shah <asjadshah60@gmail.com> 
+
+[MIT.LICENSE.txt](https://github.com/user-attachments/files/17152804/MIT.LICENSE.txt) MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
